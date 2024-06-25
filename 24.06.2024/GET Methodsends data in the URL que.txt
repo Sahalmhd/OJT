@@ -1,0 +1,11 @@
+GET Method:sends data in the URL query string
+
+POST Method:sends data in the body of the HTTP request
+
+What is an artisan?
+Artisan is the command-line tool for Laravel to help the developer build the application
+
+ORM stands for Object-Relational Mapping.
+
+git stash
+is a Git command used to temporarily store changes in the working directory.

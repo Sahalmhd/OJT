@@ -1,0 +1,5 @@
+git
+
+
+what is DevOp?
+ans:- it is culture that allows development and operations team to work together. 

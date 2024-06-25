@@ -1,0 +1,35 @@
+am Archana from Calicut in Kerala. I will done my graduation in BA history .now aim perusing  diploma in adit
+.i would like to be a Laravel developer. We have learned many languages and the one am comfortable  with is Laravel so i choose Laravel.
+
+HTTPS stands for Hypertext Transfer Protocol Secure
+HTTP stands for Hypertext Transfer Protocol
+
+Define Composer.
+Composer is the package manager for the framework.
+
+What is the templating engine used in Laravel?
+The templating engine used in Laravel is Blade. 
+
+What are available databases supported by Laravel?0
+PostgreSQL
+SQL Server
+SQLite
+MySQL
+
+
+ What is an artisan?
+Artisan is the command-line tool for Laravel to help the developer build the application.
+
+How to define environment variables in Laravel?
+The environment variables can be defined in the .env file in the project directory.
+
+What are the default route files in Laravel?
+Below are the four default route files in the routes folder in Laravel:
+
+web.php - For registering web routes.
+api.php - For registering API routes.
+console.php - For registering closure-based console commands.
+channel.php - For registering all your event broadcasting channels that your application supports.
+
+What are seeders in Laravel?
+Seeders in Laravel are used to put data in the database tables automatically. 

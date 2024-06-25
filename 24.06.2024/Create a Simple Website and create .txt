@@ -1,0 +1,23 @@
+Create a Simple Website and create a git repository with two different branches for development and production/main.
+Add a collaborator to the respective repository and use the functions like
+Add
+Commit
+Branch
+Push
+Clone
+Pull
+Merge
+Complete this practical individually and as 2-member team as collaborators.
+And host the website production/main branch to live with git server.
+
+code 
+create branch:- $ git branch development
+enter the branch:- $ git checkout development
+make changes:- $ git add .
+changes :-$ git commit -m "enter"
+push:-$ git push origin development
+merge first step:- $ git checkout main
+pull:-$ git pull origin main
+merge:-$ git merge development
+change:-$ git commit -m "merged main & development"
+push:-$ git push origin main
